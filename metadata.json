@@ -1,0 +1,5 @@
+{
+  "name": "SyncTune - Realtime Video Sync",
+  "description": "A minimalist web app to watch YouTube videos in perfect sync with friends using peer-to-peer technology.",
+  "requestFramePermissions": []
+}
